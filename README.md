@@ -1,5 +1,5 @@
-# Mastering VMware vSphere 6.5
-This is the code repository for [Mastering VMware vSphere 6.5](https://www.packtpub.com/virtualization-and-cloud/mastering-vmware-vsphere-65?utm_source=github&utm_medium=repository&utm_campaign=9781787286016), published by [Packt](https://www.packtpub.com/?utm_source=github). It contains all the supporting project files necessary to work through the video course from start to finish.
+# Mastering VMware vSphere 6.5 [Video]
+This is the code repository for [Mastering VMware vSphere 6.5](https://prod.packtpub.com/in/virtualization-and-cloud/mastering-vmware-vsphere-65-video), published by [Packt](https://www.packtpub.com/?utm_source=github). It contains all the supporting project files necessary to work through the video course from start to finish.
 ## About the Video Course
 VMware vSphere 6 is a powerful server virtualization platform that enables best performance, efficiency and availability for your infrastructure. It is adaptive by nature and effectively aligns your business requirements to the IT infrastructure. 
 
